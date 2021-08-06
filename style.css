@@ -26,6 +26,7 @@
     }
     
     .prj {
+        transition-duration: 600ms;
         background-color: #23272a;
         border-radius: 20px;
         margin-right: auto;
@@ -57,3 +58,6 @@
     .prj div {
         padding: 25px;
     }
+
+    .prj.loading:nth-child(odd) { transform: translate(100%) }
+    .prj.loading:nth-child(even) { transform: translate(-100%) }
