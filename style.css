@@ -1,0 +1,61 @@
+<style>
+    body {
+        background-color: #2c2f33;
+        margin: 0;
+    }
+    
+    .content {
+        padding-top: 125px;
+    }
+    
+    .nav {
+        background-color: #23272a;
+        position: fixed;
+        display: block;
+        height: 75px;
+        width: 100%;
+        margin: 0;
+    }
+    
+    .nav p {
+        font-family: arial;
+        font-weight: bold;
+        font-size: 20px;
+        padding: 25px;
+        color: white;
+        margin: 0;
+    }
+    
+    .prj {
+        background-color: #23272a;
+        border-radius: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        height: 250px;
+        width: 50%;
+    }
+    
+    .prj img {
+        border-radius: 10px;
+        position: absolute;
+        height: 50px;
+    }
+    
+    .prj p1 {
+        font-family: arial;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .prj p {
+        margin: 10px 0 25px 75px;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .prj div {
+        padding: 25px;
+    }
+    </style>
