@@ -39,18 +39,24 @@
         position: absolute;
         height: 50px;
     }
-    
-    .prj p1 {
-        font-family: arial;
-        font-size: 20px;
-        color: white;
-    }
-    
+
     .prj p {
         margin: 10px 0 25px 75px;
         font-family: arial;
         font-weight: bold;
         font-size: 30px;
+        color: white;
+    }
+
+    .prj p1 {
+        font-family: arial;
+        font-size: 20px;
+        color: white;
+    }
+
+    .prj p2 {
+        font-family: arial;
+        font-size: 15px;
         color: white;
     }
     
