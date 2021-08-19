@@ -77,3 +77,27 @@
         height: 25px;
         padding: 0;
     }
+    
+    a:link {
+        color: #527CFF;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: #AD26FF;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #52B1FF;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    a:active {
+        color: #FF26E8;
+        background-color: transparent;
+        text-decoration: underline;
+    }
