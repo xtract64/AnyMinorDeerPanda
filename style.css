@@ -43,10 +43,17 @@
         margin-left: auto;
     }
     
-    .image {
+    .prj img {
         border-radius: 10px;
         position: absolute;
         height: 50px;
+    }
+
+    .nav img {
+        border-radius: 10px;
+        position: absolute;
+        height: 50px;
+        padding: 12.5px;
     }
 
     .prj p {
