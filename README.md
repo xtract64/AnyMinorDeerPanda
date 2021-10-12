@@ -1,6 +1,6 @@
 # Welcome to my profile!
 ### Website
-<span style="color:red; size: 50px;">I changed my website</span>
+<span style="color:red">I changed my website</span>
 Check out my new website at [xtract.space](https://xtract.space/)
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyMinorDeerPanda&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
