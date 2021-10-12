@@ -1,6 +1,6 @@
 # Welcome to my profile!
 ### About Me
-I am a beginner programmer who can code in ES (JS), C++, C, HTML (CSS and SASS), and Lua. I am going start making Beat Saber mods (probably Quest) and I am developing a discord bot with @The-Brickler
+I am a beginner programmer who can code in ES (JS), C++, C, HTML, CSS (and SASS), Lua, and Scratch. I am going start making Beat Saber mods (probably Quest) and I am developing a discord bot with [@The-Brickler](https://github.com/The-Brickler)
 ### Website
 #### I changed my website
 Check out my new website at [https://xtract.space](https://xtract.space/)
