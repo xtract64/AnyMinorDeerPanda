@@ -8,9 +8,9 @@ Check out my new website at [https://xtract.space](https://xtract.space/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyMinorDeerPanda&show_icons=true&theme=radical&include_all_commits=true)
 
 ## Languages
-[<img align="left" alt="JavaScript" height="25px" src="/images/javascript.png">](https://www.javascript.com)
-[<img align="left" alt="nodejs" height="25px" src="/images/nodejs.png">](nodejs.org/)
-[<img align="left" alt="C" height="25px" src="/images/C.png">](cppreference.com/)
-[<img align="left" alt="CPP" height="25px" src="/images/CPP.png">](cppreference.com/)
+[<img align="left" alt="JavaScript" height="50px" src="/images/javascript.png">](https://www.javascript.com)
+[<img align="left" alt="nodejs" height="50px" src="/images/nodejs.png">](nodejs.org/)
+[<img align="left" alt="C" height="50px" src="/images/C.png">](cppreference.com/)
+[<img align="left" alt="CPP" height="50px" src="/images/CPP.png">](cppreference.com/)
 <br>
 ## Tools
