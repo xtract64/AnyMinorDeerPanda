@@ -9,8 +9,12 @@ Check out my new website at [https://xtract.space](https://xtract.space/)
 
 ## Languages
 [<img align="left" alt="JavaScript" height="50px" src="/images/javascript.png">](https://www.javascript.com)
+[<img align="left" alt="HTML" height="50px" src="/images/HTML.png">](https://html.com)
+[<img align="left" alt="CSS" height="50px" src="/images/CSS.png">](https://www.w3.org/TR/CSS/#css)
+[<img align="left" alt="SASS" height="50px" src="/images/SASS.png">](https://sass-lang.com)
 [<img align="left" alt="nodejs" height="50px" src="/images/nodejs.png">](nodejs.org/)
 [<img align="left" alt="C" height="50px" src="/images/C.png">](cppreference.com/)
 [<img align="left" alt="CPP" height="50px" src="/images/CPP.png">](cppreference.com/)
+[<img align="left" alt="Lua" height="50px" src="/images/lua.png">](https://www.lua.org)
 <br><br>
 ## Tools
