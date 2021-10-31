@@ -7,7 +7,6 @@ I have a website too! You should check it out [here](https://xtract.space/).
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyMinorDeerPanda&show_icons=true&theme=radical&include_all_commits=true)
 
-## Stuff I use
 ### Languages
 [<img align="left" alt="JavaScript" height="50px" src="/images/javascript.png">](https://www.javascript.com)
 [<img align="left" alt="HTML" height="50px" src="/images/HTML.png">](https://html.com/)
