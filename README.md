@@ -7,7 +7,8 @@ Check out my new website at [https://xtract.space](https://xtract.space/)
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyMinorDeerPanda&show_icons=true&theme=radical&include_all_commits=true)
 
-## Languages
+## Stuff I use
+### Languages
 [<img align="left" alt="JavaScript" height="50px" src="/images/javascript.png">](https://www.javascript.com)
 [<img align="left" alt="HTML" height="50px" src="/images/HTML.png">](https://html.com/)
 [<img align="left" alt="CSS" height="50px" src="/images/CSS.png">](https://www.w3.org/TR/CSS/#css)
@@ -17,7 +18,7 @@ Check out my new website at [https://xtract.space](https://xtract.space/)
 [<img align="left" alt="CPP" height="50px" src="/images/CPP.png">](cppreference.com/)
 [<img align="left" alt="Lua" height="50px" src="/images/lua.png">](https://www.lua.org/)
 <br><br>
-## Tools
+### Tools
 [<img align="left" alt="atom" height="50px" src="/images/atom.png">](https://atom.io/)
 [<img align="left" alt="vscode" height="50px" src="/images/vscode.png">](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" height="50px" src="/images/github.png">](https://github.com/)
