@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# [Xtract (AnyMinorDeerPanda)](https://github.com/AnyMinorDeerPanda)
 ### About Me
 I am a beginner programmer who can create programs in multiple languages. I love playing games (mostly rhythm games) and I want to eventually learn how to make mods for some of the games I play. I am developing a discord bot named Scope with [@The-Brickler](https://github.com/The-Brickler).
 
