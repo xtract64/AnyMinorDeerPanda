@@ -1,6 +1,6 @@
 # [Xtract (AnyMinorDeerPanda)](https://github.com/AnyMinorDeerPanda)
 ### About Me
-I am a beginner programmer who can create programs in multiple languages. I like watching anime and I love playing games (mostly rhythm games and fps) and I want to eventually learn how to make mods for some of the games I play. I am developing a discord bot named Scope with [@The-Brickler](https://github.com/The-Brickler).
+I am a beginner programmer who can create programs in multiple languages. I like watching anime and I love playing video games (mostly rhythm games and fps) and I want to eventually learn how to make mods for some of the games I play. I am developing a discord bot named Scope with [@The-Brickler](https://github.com/The-Brickler).
 
 
 I have a website too! You can check it out [here](https://xtract.space/)
